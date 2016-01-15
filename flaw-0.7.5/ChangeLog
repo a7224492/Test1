@@ -1,0 +1,94 @@
+0.7.5 - May 15, 2009 (first public release)
+-------------------------------------------
+* fixed bugs in joystick control
+* re-rendered wizard sprites with improved light setup and anti-aliasing
+* small graphic changes
+* corrected starting positions
+
+
+0.7 - May 1, 2009
+-----------------
+* options are now stored in a configuration file 
+* changed resolution from 800x600 to 640x480 while keeping the sprites
+  -> "bigger" sprites, smaller playing area, more action
+* fixed serious bugs in joystick detection
+* big AI improvements 
+  -> AI now considers fireball position and/or movement, depending on situation
+* small speed adjustments
+* small bugfixes
+* code cleanup 
+  -> added comments, made it more readable and less embarrassing to release ;-)
+
+
+0.6 - April 12, 2009
+--------------------
+* improved AI (handles diagonal fireballs much better now)
+* reimplemented 8bpp graphics with a global palette
+* added possibility to switch graphics mode (8, 16 and 24 bpp)
+* added possibility to switch fullscreen/window mode
+* use alpha channel for anti-aliasing (16 and 24bpp only)
+* first windows build
+
+
+0.5 - April 3, 2009
+-------------------
+* added joystick detection each time the setup menu is opened
+* changed sounds
+* improved graphics
+* improved menu
+* prepared code for the windows build
+
+
+0.4 - November 2008
+-------------------
+* added possibility to hit fireballs
+* added menu icons
+* switched back to 16bpp graphics, keeping indexed sprites for better performance
+  -> simple transparency for the fireballs but no alpha blending
+* fixed many small bugs
+
+
+0.3 - October 2008
+------------------
+* added sounds and music
+* improved AI
+* restructured code
+* switched to 8bpp graphics 
+  -> better performance on old hardware
+
+
+0.2.5 - August 2008
+-------------------
+* added basic menu system
+* fixed many small AI bugs
+* better collision detection
+
+
+0.2 - August 2008
+-----------------
+* revised graphics
+* added simple (and stupid) AI
+* improved blitting
+* rewritten framerate control
+
+
+
+0.1 - June 2008
+---------------
+* first "playable" version
+  -> 5 wizards, up to 10 fireballs
+* complete collision detection
+* added joystick control
+* added simple framerate control
+
+
+0.0.5 - May 2008
+----------------
+* added first wizard animations
+* keyboard control
+
+
+0.0.1 - May 2008
+----------------
+* First tests with C++ and SDL
+* Fireball moving around :-)

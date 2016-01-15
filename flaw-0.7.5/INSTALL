@@ -1,0 +1,50 @@
+Requirements
+------------
+
+F.L.A.W. uses the SDL libraries (http://www.libsdl.org/).
+This means it can run on any system supported by the SDL libraries.
+To compile and run the game, the following libraries are required:
+
+* SDL (>= 1.2)
+
+* SDL_image 
+  -libpng
+  -zlib
+
+* SDL_mixer 
+  -libogg 
+  -libvorbis
+  -libvorbisfile
+
+* SDL_ttf
+  -libfreetype
+
+
+Compile and install under Linux:
+--------------------------------
+
+Basically, all you have to do is open a terminal, 'cd' to the game's source directory
+and use the following commands to configure, build and install the game:
+
+./configure
+make
+make install  (as root)
+
+Be sure you have the necessary tools and the SDL libraries installed.
+
+
+Compile under Windows:
+----------------------
+
+The game can be compiled using the MinGW (http://mingw.org/) compiler.
+
+The easiest way is to use an IDE like Code::Blocks for this (http://www.codeblocks.org/).
+Basically, all you have to do is compile the source code and put the 'data' directory and 
+the necessary DLL files into the directory containing the executable. 
+Be sure you have the SDL development libraries set up correctly.
+
+As an alternative you could use MinGW with a unix-like command line shell like
+Cygwin (http://www.cygwin.com/) or msys to compile the game, but this has not been
+tested yet.
+
+

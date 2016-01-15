@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Version=0.9
+Encoding=UTF-8
+Name=F.L.A.W.
+GenericName=
+Comment=Wizard battle for up to five players: Avoid the fireballs and beat your opponents.
+Exec=flaw
+Icon=flaw
+Categories=Game;ArcadeGame;

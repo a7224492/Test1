@@ -1,0 +1,70 @@
+F.L.A.W. - the fantastic league of almighty wizards!
+
+
+Description:
+------------
+F.L.A.W. is a small multiplayer action game. It can be played by up to 5 players on 
+one computer. Each player controls a wizard. The goal of the game is to survive as 
+long as possible while more and more fireballs appear in the arena. 
+The players can try to avoid the fireballs, hit them with a wand or knock other players down
+temporarily. Basically it is a 'last man standing' type of game. 
+
+
+Requirements:
+-------------
+The Game should run on any current Linux or Windows system. Among others it has been tested
+on an 8 year old PC with 800 MHz and 256 MB of RAM, and it should even run on older systems.
+The game can be played with the keyboard and joysticks. 
+It is intended to be a fun multiplayer game, so you might want to have some friends, 
+joypads and drinks around.
+However it can also be played as a single player game against the computer.
+Or you can just watch 5 computer players, if you are lazy. ;-)
+
+
+The Menu:
+---------
+You can use the arrow keys or a joystick to navigate the menu.
+The following menu items are available:
+
+* Player Setup:
+  Choose the number of players (2 - 5) and how each is controlled 
+  (computer, keyboard, joystick)
+
+* Game Options
+  In this menu you can set the winning score, switch the sound on and off and change the
+  screen mode. You can use 8 bit graphics on older hardware, if the game runs too slow.
+  On most current PCs the game will run fine (and look better) with 16 or 24 bit graphics.
+
+* Start the Game
+  Starts the game :-)
+
+* Exit
+  You don't really want that, do you?
+
+
+Playing the game:
+----------------
+
+You can use a joystick or joypad to move around and the fire button to hit fireballs or
+knock other players out.
+
+Using the keyboard, you can move your wizard with the ARROW KEYS or W, A, S, D.
+Use one of the CTRL keys to hit fireballs or knock other players out.
+
+If you want to leave the game, just press the ESC key, and you will get back to the main
+menu.
+
+After each match a scoreboard will appear. If you press any key, the next match starts. 
+As soon as one player reaches the winning score, the game is over and you will be brought
+back to the main menu.
+
+
+------------------------------------------
+
+Thank you for playing F.L.A.W.
+I hope you enjoy this game.
+If you have any comments or suggestions, please let me know.
+
+Denis Comtesse
+denis@problematic.de
+
